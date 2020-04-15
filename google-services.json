@@ -1,42 +1,37 @@
 {
   "project_info": {
-    "project_number": "",
-    "firebase_url": "",
-    "project_id": "",
-    "storage_bucket": ""
+    "project_number": "246691590038",
+    "firebase_url": "https://tbselearning-62fca.firebaseio.com",
+    "project_id": "tbselearning-62fca",
+    "storage_bucket": "tbselearning-62fca.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:111111111111:android:1111111111111111",
+        "mobilesdk_app_id": "1:246691590038:android:44ca1448e2142d6d6177b7",
         "android_client_info": {
-          "package_name": "com.moodle.moodlemobile"
+          "package_name": "tz.go.tbs.elearning"
         }
       },
       "oauth_client": [
         {
-          "client_id": "",
+          "client_id": "246691590038-vk84hh4ao52mr636404k66tkmms83o62.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": ""
-        },
-        {
-          "current_key": ""
+          "current_key": "AIzaSyB9ClQRogdkBAbUgId_1qY8Jzflw7HxUOY"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246691590038-vk84hh4ao52mr636404k66tkmms83o62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
